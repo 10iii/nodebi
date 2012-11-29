@@ -1,0 +1,24 @@
+{
+  "name": "bi",
+  "version": "0.0.1",
+  "description": "pure javascript Big Interger module for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/10iii/nodebi.git"
+  },
+  "keywords": [
+    "big",
+    "interger",
+    "pure",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "10iii",
+  "email": "10iiishisan@gmail.com",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
