@@ -1,7 +1,6 @@
-bi
-==
-Pure JavaScript Big Integer module for node.js
-----------------------------------------------
+#bi#
+##Pure JavaScript Big Integer module for node.js##
+-----------------------------------
 Copyright (c)  2012  10iii 
 All Rights Reserved. 
 This module is released under a BSD license. 
