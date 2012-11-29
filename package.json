@@ -1,7 +1,7 @@
 {
   "name": "bi",
   "version": "0.0.1",
-  "description": "pure javascript Big Interger module for nodejs",
+  "description": "pure javascript Big Integer module for nodejs",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "big",
-    "interger",
+    "integer",
     "pure",
     "javascript",
     "nodejs"
