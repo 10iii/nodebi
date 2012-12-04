@@ -1,6 +1,6 @@
 {
   "name": "bi",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "pure javascript Big Integer module for nodejs",
   "main": "index.js",
   "scripts": {
